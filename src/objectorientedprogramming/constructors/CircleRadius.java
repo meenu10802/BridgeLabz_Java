@@ -10,7 +10,7 @@ public class CircleRadius {
 
     double radius;
 
-    // Default constructor using constructor chaining
+    // Using Default constructor using constructor chaining
     CircleRadius() {
         this(1.0);
     }
@@ -22,6 +22,7 @@ public class CircleRadius {
 
     // Method to calculate area
     double calculateArea() {
+
         return Math.PI * radius * radius;
     }
 
