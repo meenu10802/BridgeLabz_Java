@@ -85,16 +85,17 @@ public class StudentLinkedList {
 
         // Traverse to find the node before the target node
         StudentNode temp = head;
-        while (temp.next != null && temp.next.rollNo != rollNo) {
+
+        // If student found, remove it by updating link
+        while (temp.next != null) {
+            if (temp.next.rollNo == rollNo) {
+                temp.next = temp.next.next; // delete
+                return;
+            }
             temp = temp.next;
         }
 
-        // If student found, remove it by updating link
-        if (temp.next != null) {
-            temp.next = temp.next.next;
-        } else {
-            System.out.println("Student not found");
-        }
+        System.out.println("Student not found");
     }
 
     /*

@@ -18,21 +18,23 @@ class TextState {
 public class TextEditorUndoRedo {
 
     TextState current;
-
     // Add new state
     void addState(String text) {
         TextState newState = new TextState(text);
 
-        if (current != null) {
-            current.next = newState;
-            newState.prev = current;
+        if(current==null){
+            current=newState;
         }
-        current = newState;
+        else{
+            current.next=newState;
+            newState.prev=current;
+            current=newState;
+        }
     }
 
     // Undo
     void undo() {
-        if (current != null && current.prev != null)
+        if (current != null && current.prev != null) //current.prev is used because if current is the head node and there is nothing behind it
             current = current.prev;
     }
 
