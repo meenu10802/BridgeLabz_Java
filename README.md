@@ -36,3 +36,8 @@
 - **20-Jan-2026 (Tuesday):** Revised OOP concepts and reinforced Object Modelling and Inheritance.
 - **21-Jan-2026 (Wednesday):** Studied Data Structures fundamentals and practiced Linked List and Stack problems.
 - **22-Jan-2026 (Thursday):** Completed Sorting Algorithms and implemented Linear Search and Binary Search algorithms.
+- **23-Jan-2026 (Friday):** Completed Time complexity codes and started OOPS Banner App (Console-Based Application).
+- **24-Jan-2026 (Saturday):** Completed OOPS Banner App.
+- **27-Jan-2026 (Tuesday):** Started learning Java Generics; practiced generic classes, generic methods, bounded type parameters, and solved multiple example programs.
+- **28-Jan-2026 (Wednesday):** Completed Java Collections framework; practiced List, Queue, Map implementations and solved related coding problems.
+- **29-Jan-2026 (Thursday):** Started building Factory Robot Hazard Analyzer application analyzed problem statement and began core implementation.
