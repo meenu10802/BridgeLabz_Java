@@ -3,18 +3,25 @@ package ioStreams;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+
+/**
+ * ReadFile copies the contents of sample.txt to output.txt using byte streams.
+ * It uses try-with-resources so input and output streams are closed automatically.
+ */
 public class ReadFile {
     public static void main(String[] args) {
-        // The try-with-resources statement ensures the FileInputStream is closed automatically
-        try(FileInputStream input = new FileInputStream("sample.txt")){
-            FileOutputStream  output = new FileOutputStream("output.txt");
+        // Open input and output streams; try-with-resources closes them automatically
+        try (FileInputStream input = new FileInputStream("src/ioStreams/sample.txt");
+             FileOutputStream output = new FileOutputStream("src/ioStreams/output.txt")) {
             int byteData;
-            while((byteData=input.read())!=-1){
+            // Read one byte at a time and write it to the output until end of file (-1)
+            while ((byteData = input.read()) != -1) {
                 output.write(byteData);
             }
         }
-        catch(IOException e){
-            System.out.println("Error occured "+ e);
+        // Handle any I/O errors during read or write
+        catch (IOException e) {
+            System.out.println("Error occured " + e);
         }
     }
 }
