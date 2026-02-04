@@ -41,3 +41,7 @@
 - **27-Jan-2026 (Tuesday):** Started learning Java Generics; practiced generic classes, generic methods, bounded type parameters, and solved multiple example programs.
 - **28-Jan-2026 (Wednesday):** Completed Java Collections framework; practiced List, Queue, Map implementations and solved related coding problems.
 - **29-Jan-2026 (Thursday):** Started building Factory Robot Hazard Analyzer application analyzed problem statement and began core implementation.
+- **30-Jan-2026 (Friday):** Completed Factory Robot Hazard Analyzer application pushed to github. Started learning streams.
+- **31-Jan-2026 (Saturday):** Gave review for the week and completed streams.
+- **1-Feb-2026 (Monday):** Gave dsa test and started exception handling.
+- **2-Feb-2026 (Tuesday):** Worked on Console based Ocean Fleet App.
