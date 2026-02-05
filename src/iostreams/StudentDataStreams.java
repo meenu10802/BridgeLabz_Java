@@ -1,4 +1,4 @@
-package ioStreams;
+package iostreams;
 
 import java.io.*;
 

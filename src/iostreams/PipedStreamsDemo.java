@@ -1,4 +1,4 @@
-package ioStreams;
+package iostreams;
 
 import java.io.*;
 
@@ -20,7 +20,7 @@ public class PipedStreamsDemo {
                     for (String msg : messages) {
                         pw.println(msg);
                     }
-                } catch (IOException e) {
+                } catch (Exception e) {
                     System.err.println("Writer error: " + e.getMessage());
                 }
             });
