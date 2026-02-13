@@ -1,4 +1,4 @@
-package collectionsandstreams.ioStreams;
+package collectionsandstreams.iostreams;
 
 import java.io.*;
 import java.util.*;
