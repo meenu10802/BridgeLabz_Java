@@ -47,11 +47,7 @@
 - **2-Feb-2026 (Tuesday):** Worked on Console based Ocean Fleet App.
 - **03-Feb-2026 (Tuesday):** Completed Ocean Fleet App and pushed to GitHub.
 - **04-Feb-2026 (Wednesday):** Studied concepts of Exception Handling (Types of Exceptions, Try-Catch).
-- **05-Feb-2026 (Thursday):** Learned Exception Handling:
-  - Checked, Unchecked, Custom Exceptions
-  - Try-Catch, Finally Block
-  - Throw vs Throws  
-    Practiced and implemented programs.
+- **05-Feb-2026 (Thursday):** Practiced and implemented programs of Exception Handling.
 
 - **06-Feb-2026 (Friday):** Completed all problems of exception handling.
 
