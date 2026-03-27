@@ -132,6 +132,6 @@
 - **21-Mar-2026 (Saturday):** Attended soft skill session.
 - **23-Mar-2026 (Monday):** Prepared for M1 exam.
 - **24-Mar-2026 (Tuesday):** Gave M1 exam.
-- **25-Mar-2026 (Wednesday):**Created a Spring Boot REST API application that demonstrates different HTTP methods and basic Spring concepts like Dependency Injection.  
+- **25-Mar-2026 (Wednesday):Created a Spring Boot REST API application that demonstrates different HTTP methods and basic Spring concepts like Dependency Injection.  
 - **26-Mar-2026 (Thursday):** Created Spring Boot REST API application that provides greeting messages and supports full CRUD (Create, Read, Update, Delete) operations.
 
