@@ -24,29 +24,53 @@
 ## January 2026 – Java Batch
 
 - **08-Jan-2026 (Thursday):** Revised Java basics including variables, data types, operators, and input/output handling.
+- 
 - **09-Jan-2026 (Friday):** Continued Java training with environment walkthrough and overview of backend development.
+- 
 - **10-Jan-2026 (Saturday):** Practiced basic Java questions and created a new repository for Java.
+- 
 - **12-Jan-2026 (Monday):** Continued Programming Elements; completed Level 1 and Level 2.
+- 
 - **13-Jan-2026 (Tuesday):** Studied Control Flow concepts including conditional statements and loops.
+- 
 - **14-Jan-2026 (Wednesday):** Solved Control Flow Level 1, Level 2, and Level 3 programs and committed changes to the `feature/CoreProgramming` branch.
+- 
 - **15-Jan-2026 (Thursday):** Practiced Arrays (Level 1 and Level 2), completed Methods (Level 1 and Level 2), and Strings (Level 1, Level 2, and Level 3).
+- 
 - **16-Jan-2026 (Friday):** Rectified mistakes, added single-line and multi-line comments in all code, and completed Classes and Objects programs.
+- 
 - **17-Jan-2026 (Saturday):** Learned OOP concepts and completed Object Modelling and Inheritance.
+- 
 - **19-Jan-2026 (Monday):** Completed Encapsulation and gave weekly review.
+- 
 - **20-Jan-2026 (Tuesday):** Revised OOP concepts and reinforced Object Modelling and Inheritance.
+- 
 - **21-Jan-2026 (Wednesday):** Studied Data Structures fundamentals and practiced Linked List and Stack problems.
+- 
 - **22-Jan-2026 (Thursday):** Completed Sorting Algorithms and implemented Linear Search and Binary Search algorithms.
+- 
 - **23-Jan-2026 (Friday):** Completed Time complexity codes and started OOPS Banner App (Console-Based Application).
+- 
 - **24-Jan-2026 (Saturday):** Completed OOPS Banner App.
+- 
 - **27-Jan-2026 (Tuesday):** Started learning Java Generics; practiced generic classes, generic methods, bounded type parameters, and solved multiple example programs.
+- 
 - **28-Jan-2026 (Wednesday):** Completed Java Collections framework; practiced List, Queue, Map implementations and solved related coding problems.
+- 
 - **29-Jan-2026 (Thursday):** Started building Factory Robot Hazard Analyzer application analyzed problem statement and began core implementation.
+- 
 - **30-Jan-2026 (Friday):** Completed Factory Robot Hazard Analyzer application pushed to github. Started learning streams.
+- 
 - **31-Jan-2026 (Saturday):** Gave review for the week and completed streams.
+- 
 - **1-Feb-2026 (Monday):** Gave dsa test and started exception handling.
+- 
 - **2-Feb-2026 (Tuesday):** Worked on Console based Ocean Fleet App.
+- 
 - **03-Feb-2026 (Tuesday):** Completed Ocean Fleet App and pushed to GitHub.
+- 
 - **04-Feb-2026 (Wednesday):** Studied concepts of Exception Handling (Types of Exceptions, Try-Catch).
+- 
 - **05-Feb-2026 (Thursday):** Practiced and implemented programs of Exception Handling.
 
 - **06-Feb-2026 (Friday):** Completed all problems of exception handling.
@@ -125,9 +149,85 @@
 - **19-Mar-2026 (Thursday):** Created backend springboot servlet.
 
 - **20-Mar-2026 (Friday):** **Absent**
+- 
 - **21-Mar-2026 (Saturday):** Attended soft skill session.
+- 
 - **23-Mar-2026 (Monday):** Prepared for M1 exam.
+- 
 - **24-Mar-2026 (Tuesday):** Gave M1 exam.
-- **25-Mar-2026 (Wednesday):Created a Spring Boot REST API application that demonstrates different HTTP methods and basic Spring concepts like Dependency Injection.  
+- 
+- **25-Mar-2026 (Wednesday):** Created a Spring Boot REST API application that demonstrates different HTTP methods and basic Spring concepts like Dependency Injection.
+- 
 - **26-Mar-2026 (Thursday):** Created Spring Boot REST API application that provides greeting messages and supports full CRUD (Create, Read, Update, Delete) operations.
-
+- 
+- **27-Mar-2026 (Friday):** Started Employee Payroll App.
+- 
+- **28-Mar-2026 (Saturday):** Attended power skill session.
+- 
+- **30-Mar-2026 (Monday):** Learned Spring Framework multi-layer architecture and integrated H2 Database for backend application development.
+- 
+- **31-Mar-2026 (Tuesday):** Implemented layered architecture using Controller, Service, and Repository layers in Spring Boot.
+- 
+- **01-Apr-2026 (Wednesday):** Developed Spring Employee Payroll application with proper service layer implementation.
+- 
+- **02-Apr-2026 (Thursday):** Worked on Employee Payroll REST APIs with validation and exception handling.
+- 
+- **03-Apr-2026 (Friday):** Practiced API testing using Postman and improved request/response handling in Spring Boot applications.
+- 
+- **04-Apr-2026 (Saturday):** Attended power skill session.
+- 
+- **06-Apr-2026 (Monday):** Learned Spring Security concepts including authentication and authorization.
+- 
+- **07-Apr-2026 (Tuesday):** Implemented JWT-based authentication in Spring Boot applications.
+- 
+- **08-Apr-2026 (Wednesday):** Developed backend modules for Hospital Management System using Spring Boot and JWT security.
+- 
+- **09-Apr-2026 (Thursday):** Learned JMS (Java Message Service) and Redis integration with Spring Boot.
+- 
+- **10-Apr-2026 (Friday):** Implemented token-based authentication system for Fundoo Notes backend application.
+- 
+- **11-Apr-2026 (Saturday):** Attended power skill session.
+- 
+- **13-Apr-2026 (Monday):** Learned RabbitMQ, Spring Batch with Excel processing, and basics of Microservices architecture.
+- 
+- **14-Apr-2026 (Tuesday):** Worked on backend token-based system for Fundoo Notes application – Part 2.
+- 
+- **15-Apr-2026 (Wednesday):** Learned Microservices architecture using Java and Spring Boot.
+- 
+- **16-Apr-2026 (Thursday):** Started development of Bookstore E-Commerce Microservices Architecture project.
+- 
+- **17-Apr-2026 (Friday):** Implemented service discovery using Eureka Server and configured API Gateway routing.
+- 
+- **18-Apr-2026 (Saturday):** Attended power skill session.
+- 
+- **20-Apr-2026 (Monday):** Worked on centralized configuration management using Spring Cloud Config Server.
+- 
+- **21-Apr-2026 (Tuesday):** Developed User Service with JWT authentication and role-based authorization.
+- 
+- **22-Apr-2026 (Wednesday):** Implemented Product Service with CRUD operations and database integration.
+- 
+- **23-Apr-2026 (Thursday):** Developed Cart Service and integrated Redis for cart data storage.
+- 
+- **24-Apr-2026 (Friday):** Worked on Order Service and integrated Kafka for event-driven communication.
+- 
+- **25-Apr-2026 (Saturday):** Attended power skill session.
+- 
+- **27-Apr-2026 (Monday):** Developed Wishlist and Customer services with REST API integration.
+- 
+- **28-Apr-2026 (Tuesday):** Tested communication between multiple microservices using API Gateway and Eureka.
+- 
+- **29-Apr-2026 (Wednesday):** Worked on Feedback and Notification services for the microservices project.
+- 
+- **30-Apr-2026 (Thursday):** Practiced Docker basics and containerized Spring Boot applications.
+- 
+- **01-May-2026 (Friday):** **Absent.**
+- **02-May-2026 (Saturday):** Attended power skill session.
+- **04-May-2026 (Monday):** Worked on Digital Supply Chain Tracker microservices project and service integration.
+- **05-May-2026 (Tuesday):** Worked on Jenkins CI/CD pipeline setup and deployment automation for Spring Boot applications. Deployed Spring Boot applications on AWS EC2 instances using Jenkins and Nginx.
+- **06-May-2026 (Wednesday):** Configured reverse proxy setup using Nginx for deployed backend applications. 
+- **07-May-2026 (Thursday):** Practiced Git workflow and managed feature branch integrations for team project development.
+- **08-May-2026 (Friday):** Worked on troubleshooting Docker, Jenkins, and microservices deployment issues.
+- **09-May-2026 (Saturday):** Attended power skill session.
+- **11-May-2026 (Monday):** Developed Item Service with layered architecture, DTOs, exception handling, and CRUD operations for team project.
+- **12-May-2026 (Tuesday):** Worked on Shipment Service APIs and request/response DTO implementation for supply chain project for team project.
+- **13-May-2026 (Wednesday):** Revamped Github structure and studied for review.
