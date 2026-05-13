@@ -77,9 +77,9 @@
 - **07-Mar-2026 (Saturday):** Attended soft skill session.
 - **09-Mar-2026 (Monday):** Studied for M1 exam,solved some practice questions.
 - **10-Mar-2026 (Tuesday):** Revised previous concepts for weekly review.
-- **11-Mar-2026 (Wednesday):** Studied concepts of Servlets.
+- **11-Mar-2026 (Wednesday):** Studied concepts of Servlets.Created first Servlet project.
 - **12-Mar-2026 (Thursday):** Studied concepts of Tomcat.
-- **13-Mar-2026 (Friday):** Studied servlet lifecycle.
+- **13-Mar-2026 (Friday):** Started creating springboot Greetings App.
 - **14-Mar-2026 (Saturday):** Attended soft skill session.
 - **16-Mar-2026 (Monday):** Learned: Apache Tomcat,Servlets Built backend project for Spring intro
 - **17-Mar-2026 (Tuesday):** Studied for M1 exam.
@@ -93,10 +93,10 @@
 - **26-Mar-2026 (Thursday):** Created Spring Boot REST API application that provides greeting messages and supports full CRUD (Create, Read, Update, Delete) operations.
 - **27-Mar-2026 (Friday):** Started Employee Payroll App.
 - **28-Mar-2026 (Saturday):** Attended power skill session.
-- **30-Mar-2026 (Monday):** Learned Spring Framework multi-layer architecture and integrated H2 Database for backend application development.
+- **30-Mar-2026 (Monday):** Studied the requirements for Hospital Management System. Learned Spring Framework multi-layer architecture and integrated H2 Database for backend application development.
 - **31-Mar-2026 (Tuesday):** Implemented layered architecture using Controller, Service, and Repository layers in Spring Boot.
 - **01-Apr-2026 (Wednesday):** Developed Spring Employee Payroll application with proper service layer implementation.
-- **02-Apr-2026 (Thursday):** Worked on Employee Payroll REST APIs with validation and exception handling.
+- **02-Apr-2026 (Thursday):** Studied the requirements for Fundoo app. Worked on Employee Payroll REST APIs with validation and exception handling. 
 - **03-Apr-2026 (Friday):** Practiced API testing using Postman and improved request/response handling in Spring Boot applications.
 - **04-Apr-2026 (Saturday):** Attended power skill session.
 - **06-Apr-2026 (Monday):** Learned Spring Security concepts including authentication and authorization.
